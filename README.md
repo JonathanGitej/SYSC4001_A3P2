@@ -22,18 +22,18 @@ gcc *.c -o part2a_101294584_101318070
 ```
 - Secondly make sure rubric.txt and the exams directory is in the root with the c file
 - Lastly to run:
-  ```bash
-  ./part2a_101294584_101318070 <num_TAs> <exam_directory>
-  ```
+```bash
+./part2a_101294584_101318070 <num_TAs> <exam_directory>
+```
 
-  num_TAs can be any integer >= 2 (default value is 2)
-  exam_directory is the directory where your exam.txt are located (in this case ./exams)
+num_TAs can be any integer >= 2 (default value is 2)
+exam_directory is the directory where your exam.txt are located (in this case ./exams)
 
-  -example execution:
-  ```bash
-  gcc *.c -o part2a_101294584_101318070
-  ./part2a_101294584_101318070 2 ./exams
-  ```
+- example execution:
+```bash
+gcc *.c -o part2a_101294584_101318070
+./part2a_101294584_101318070 2 ./exams
+```
 
   ### Part 2b
 - First Compile all files in directory:
@@ -42,18 +42,18 @@ gcc *.c -o part2b_101294584_101318070
 ```
 - Secondly make sure rubric.txt and the exams directory is in the root with the c file
 - Lastly to run:
-  ```bash
-  ./part2b_101294584_101318070 <num_TAs> <exam_directory>
-  ```
+```bash
+./part2b_101294584_101318070 <num_TAs> <exam_directory>
+```
 
-  num_TAs can be any integer >= 2 (default value is 2)
-  exam_directory is the directory where your exam.txt are located (in this case ./exams)
+num_TAs can be any integer >= 2 (default value is 2)
+exam_directory is the directory where your exam.txt are located (in this case ./exams)
 
-  -example execution:
-  ```bash
-  gcc *.c -o part2b_101294584_101318070
-  ./part2b_101294584_101318070 2 ./exams
-  ```
+- example execution:
+```bash
+gcc *.c -o part2b_101294584_101318070
+./part2b_101294584_101318070 2 ./exams
+```
 
   
   
